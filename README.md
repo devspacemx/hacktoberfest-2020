@@ -21,19 +21,20 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
 
 ## 📖 Índice
 
-- [Hacktoberfest 2020](#hacktoberfest-2020)
+- [Hacktoberfest 2020](#Hacktoberfest-2020)
   - [📖 Índice](#%f0%9f%93%96-%c3%8dndice)
-  - [¿Qué es Hacktoberfest?](#hacktoberfest)
-  - [¿Qué es el Open Source?](#open-source)
-  - [¿Qué es un Pull request?](#pull-request)
-    - [Descarga](#descarga)
-    - [Instrucciones](#instrucciones)
-    - [Ejecución](#ejecuci%c3%b3n)
-  - [Contribuye](#contribuye)
+  - [¿Qué es Hacktoberfest?](#¿Qué-es-Hacktoberfest?)
+  - [¿Qué es el Open Source?](#¿Qué-es-el-Open-Source?)
+  - [¿Qué es un Pull request?](#¿Qué-es-un-Pull-request?)
+  - [¿Cómo empiezo?](#¿Cómo-empiezo?)
+    - [Inscribirse a Hacktoberfest 2020](#Inscribirse-a-Hacktoberfest-2020)
+    - [Hacer tu primer Pull request](#Hacer-tu-primer-Pull-request)
+    - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
   - [Referencias](#referencias)
   - [Créditos](#cr%c3%a9ditos)
     - [Core-Team](#core-team)
     - [Otros contribuidores](#otros-contribuidores)
+  - [Expresiones de Gratitud](#Expresiones-de-Gratitud)
   - [Licencia](#licencia)
 
 ## ¿Qué es Hacktoberfest?
@@ -56,47 +57,26 @@ Un Pull request son cambios propuestos que puedes enviar a una rama en un reposi
 
 ### Inscribirse a Hacktoberfest 2020
 
-1. **Primer paso test**
+1. **Ir a la página oficial de [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).**
+2. **Dar click en el botón de Start Hacking.**
+3. **Iniciar sesión con GitHub (lo hace automáticamente).**
+4. **Llenar los campos y dar click en el botón de Start Hacking.**
 
-    Descripción breve del primer segundo.
+### Hacer tu primer Pull request
 
-   ```bash
-   npm install -g ejemplo
-   mv .example.env .env
-   ```
+1. Hacer Fork a este repositorio usando el botón de arriba.
+2. Clonar tu repositorio clonado a tu PC.
+3. Crear una nueva rama para tus modificaciones (por ejemplo, `git branch nuevo-usuario` y hacer checkout a la rama `git checkout nuevo-usuario`).
+4. Abrir el archivo en la carpeta correspondiente de donde quieres resolver el problema.
+5. Añadir tus cambios (`git add -a`), hacer commit (`git commit -m "Resuelto problema"`) y hacer push (`git push origin nuevo-usuario` o `git push`).
+6. Crear un pull request.
+7. Comentar en el Pull request el # del issue que resuelve, si no es un issue en específico, omitir este paso.
+8. Darle Star a este repositorio :sunglasses:.
 
-    ¿Qué sucede con este paso?
+### Encontrar un repositorio para contribuir
 
-> **Nota**: Información adicional de este paso.
-
-1. **Segunda instrucción.**
-
-    Descripción breve del primer segundo.
-
-   ```bash
-   comando
-   otro comando
-   ```
-
-    ¿Qué sucede con este paso?
-
-### Instrucciones
-
-Utiliza como guía la sección de [Descarga](#descarga)
-
-### Ejecución
-
-Utiliza como guía la sección de [Descarga](#descarga)
-
-## Contribuye
-
-Incluye aquí las formas de contribuir a tu proyecto.
-
-Ejemplo:
-
-Revisa por favor si puedes contribuir primero con los issues solicitados en el apartado de issues del [Repositorio](https://github.com/)
-
-Considera contribuir al proyecto de cualquier forma. Un buen inicio es la documentación o agregando tu username de twitter o github en este documento. Las modificaciones son aceptadas por pull request en el siguiente repositorio. [Repositorio](https://github.com/).
+TODO: Escribir que pueden encontrar los Issues en la parte de Issues o en la tabla que pondré de algoritmos en cada lenguaje.
+[Algoritmos](#algoritmos)
 
 ## Referencias
 
@@ -111,13 +91,22 @@ Considera contribuir al proyecto de cualquier forma. Un buen inicio es la docume
 
 ### Core-Team
 
-- [octocat](http://github.com/octocat)
+- [Carlos Contreras](http://github.com/Cdca12)
+- [Alfonso Reyes](http://github.com/mxarc)
 
 ### Otros contribuidores
 
 Este proyecto tampoco hubiera sido posible sin el apoyo de Richard Stallman, Aaron Swartz, Edward Snowden, Kevin Mitnick, Linus Torvalds y Chelsea Manning.
 
 `{}` con ❤️ por la comunidad de [DevSpace](https://www.devspace.mx).
+
+## Expresiones de Gratitud 🎁
+
+- Comenta a otros sobre este proyecto 📢.
+- Síguenos en las redes sociales de DevSpace 📢. 
+- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+- Da las gracias públicamente 🤓.
+- etc.
 
 ## Licencia
 
