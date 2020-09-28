@@ -22,20 +22,20 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
 ## 📖 Índice
 
 - [Hacktoberfest 2020](#Hacktoberfest-2020)
-  - [📖 Índice](#-índice)
-  - [¿Qué es Hacktoberfest?](#¿Qué-es-Hacktoberfest?)
-  - [¿Qué es el Open Source?](#¿Qué-es-el-Open-Source?)
-  - [¿Qué es un Pull request?](#¿Qué-es-un-Pull-request?)
-  - [¿Cómo empiezo?](#¿Cómo-empiezo?)
+  - [📖 Índice](#-Índice)
+  - [¿Qué es Hacktoberfest?](#Qué-es-Hacktoberfest)
+  - [¿Qué es el Open Source?](#Qué-es-el-Open-Source)
+  - [¿Qué es un Pull request?](#Qué-es-un-Pull-request)
+  - [¿Cómo empiezo?](#Cómo-empiezo)
     - [Inscribirse a Hacktoberfest 2020](#Inscribirse-a-Hacktoberfest-2020)
     - [Hacer tu primer Pull request](#Hacer-tu-primer-Pull-request)
     - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
-  - [Referencias](#referencias)
-  - [Créditos](#cr%c3%a9ditos)
-    - [Core-Team](#core-team)
-    - [Otros contribuidores](#otros-contribuidores)
+  - [Referencias](#Referencias)
+  - [Créditos](#Créditos)
+    - [Core-Team](#Core-Team)
+    - [Otros contribuidores](#Otros-Contribuidores)
   - [Expresiones de Gratitud](#Expresiones-de-Gratitud-)
-  - [Licencia](#licencia)
+  - [Licencia](#Licencia)
 
 ## ¿Qué es Hacktoberfest?
 
