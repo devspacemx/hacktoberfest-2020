@@ -19,10 +19,10 @@ Contribuye al Open Source y gánate una camisa de edición limitada.
 Puedes contribuir en este repositorio resolviendo los diversos algoritmos planteados y explicando cómo lo resolviste. De este modo se crea valor con las contribuciones al ser conocimiento y no simplemente la resolución de algo, si no la receta para resolver un problema. Otras personas pueden referirse a esto cuando quieran aprender o conocer cómo lo explicaría alguien sin tecnicismos.
 
 
-## 📖 Índice
+## Índice 📖
 
 - [Hacktoberfest 2020](#Hacktoberfest-2020)
-  - [📖 Índice](#-Índice)
+  - [Índice 📖](#Índice-)
   - [¿Qué es Hacktoberfest?](#Qué-es-Hacktoberfest)
   - [¿Qué es el Open Source?](#Qué-es-el-Open-Source)
   - [¿Qué es un Pull request?](#Qué-es-un-Pull-request)
@@ -57,10 +57,10 @@ Un Pull request son cambios propuestos que puedes enviar a una rama en un reposi
 
 ### Inscribirse a Hacktoberfest 2020
 
-1. **Ir a la página oficial de [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).**
-2. **Dar click en el botón de Start Hacking.**
-3. **Iniciar sesión con GitHub (lo hace automáticamente).**
-4. **Llenar los campos y dar click en el botón de Start Hacking.**
+1. Ir a la página oficial de [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).
+2. Dar click en el botón de Start Hacking.
+3. Iniciar sesión con GitHub (lo hace automáticamente).
+4. Llenar los campos y dar click en el botón de Start Hacking.
 
 ### Hacer tu primer Pull request
 
