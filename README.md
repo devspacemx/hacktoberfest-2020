@@ -22,7 +22,7 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
 ## 📖 Índice
 
 - [Hacktoberfest 2020](#Hacktoberfest-2020)
-  - [📖 Índice](#%f0%9f%93%96-%c3%8dndice)
+  - [📖 Índice](#-índice)
   - [¿Qué es Hacktoberfest?](#¿Qué-es-Hacktoberfest?)
   - [¿Qué es el Open Source?](#¿Qué-es-el-Open-Source?)
   - [¿Qué es un Pull request?](#¿Qué-es-un-Pull-request?)
@@ -34,7 +34,7 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
   - [Créditos](#cr%c3%a9ditos)
     - [Core-Team](#core-team)
     - [Otros contribuidores](#otros-contribuidores)
-  - [Expresiones de Gratitud](#Expresiones-de-Gratitud)
+  - [Expresiones de Gratitud](#Expresiones-de-Gratitud-)
   - [Licencia](#licencia)
 
 ## ¿Qué es Hacktoberfest?
