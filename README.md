@@ -11,19 +11,6 @@
 [![website](https://img.shields.io/badge/website-devspace.mx-blue)](https://devspace.mx/)
 [![twitter](https://img.shields.io/twitter/follow/devspacemx?label=Twitter&style=flat&logo=twitter)](https://twitter.com/devspacemx)
 [![Discord](https://img.shields.io/discord/635852899066314753?label=Discord&style=flat&logo=discord)](https://discordapp.com/invite/sJ7b9Mr)
-<!-- TODO: Cambiar por https://github.com/devspacemx/hacktoberfest-2020/contributors -->
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-  <!-- TODO: Cambiar por http://img.shields.io/github/contributors/devspacemx/hacktoberfest-2020 -->
-  <img src="https://img.shields.io/github/contributors/argonautica/sorting-algorithms" />
-</a>
-<a href="https://github.com/devspacemx/hacktoberfest-2020/issues">
-  <!-- TODO: Cambiar por https://img.shields.io/github/issues/devspacemx/hacktoberfest-2020.svg -->
-  <img src="https://img.shields.io/github/issues/argonautica/sorting-algorithms.svg" alt="GitHub Issues"/>
-</a>
-<a href="https://github.com/devspacemx/hacktoberfest-2020/stargazers">
-  <!-- TODO: Cambiar por https://img.shields.io/github/stars/devspacemx/hacktoberfest-2020.svg?label=stars&style=flat -->
-  <img src="https://img.shields.io/github/stars/argonautica/sorting-algorithms.svg?label=stars&style=flat" alt="stars"/>
-</a>
 
 # Hacktoberfest 2020
 
@@ -42,7 +29,7 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
   - [¿Cómo empiezo?](#Cómo-empiezo)
     - [Inscribirse a Hacktoberfest 2020](#Inscribirse-a-Hacktoberfest-2020)
     - [Hacer tu primer Pull request](#Hacer-tu-primer-Pull-request)
-  - [Contribuye](#Contribuye-)
+  - [Contribuye 🚀]#Contribuye-)
     - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
   - [Créditos](#Créditos)
     - [Organizadores](#Organizadores)
@@ -87,7 +74,7 @@ Un Pull request son cambios propuestos que puedes enviar a una rama en un reposi
 7. Comentar en el Pull request el # del issue que resuelve, si no es un issue en específico, omitir este paso.
 8. Darle Star a este repositorio :sunglasses:.
 
-## Contribuye :rocket:
+## Contribuye 🚀
 
 ### Encontrar un repositorio para contribuir
 
