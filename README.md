@@ -11,6 +11,19 @@
 [![website](https://img.shields.io/badge/website-devspace.mx-blue)](https://devspace.mx/)
 [![twitter](https://img.shields.io/twitter/follow/devspacemx?label=Twitter&style=flat&logo=twitter)](https://twitter.com/devspacemx)
 [![Discord](https://img.shields.io/discord/635852899066314753?label=Discord&style=flat&logo=discord)](https://discordapp.com/invite/sJ7b9Mr)
+<!-- TODO: Cambiar por https://github.com/devspacemx/hacktoberfest-2020/contributors -->
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+  <!-- TODO: Cambiar por http://img.shields.io/github/contributors/devspacemx/hacktoberfest-2020 -->
+  <img src="https://img.shields.io/github/contributors/argonautica/sorting-algorithms" />
+</a>
+<a href="https://github.com/devspacemx/hacktoberfest-2020/issues">
+  <!-- TODO: Cambiar por https://img.shields.io/github/issues/devspacemx/hacktoberfest-2020.svg -->
+  <img src="https://img.shields.io/github/issues/argonautica/sorting-algorithms.svg" alt="GitHub Issues"/>
+</a>
+<a href="https://github.com/devspacemx/hacktoberfest-2020/stargazers">
+  <!-- TODO: Cambiar por https://img.shields.io/github/stars/devspacemx/hacktoberfest-2020.svg?label=stars&style=flat -->
+  <img src="https://img.shields.io/github/stars/argonautica/sorting-algorithms.svg?label=stars&style=flat" alt="stars"/>
+</a>
 
 # Hacktoberfest 2020
 
@@ -29,11 +42,12 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
   - [¿Cómo empiezo?](#Cómo-empiezo)
     - [Inscribirse a Hacktoberfest 2020](#Inscribirse-a-Hacktoberfest-2020)
     - [Hacer tu primer Pull request](#Hacer-tu-primer-Pull-request)
+  - [Contribuye](#Contribuye-)
     - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
-  - [Referencias](#Referencias)
   - [Créditos](#Créditos)
-    - [Core-Team](#Core-Team)
-    - [Otros contribuidores](#Otros-Contribuidores)
+    - [Organizadores](#Organizadores)
+    - [Agradecimientos](#Agradecimientos)
+  - [Contribuidores](#Contribuidores)
   - [Expresiones de Gratitud](#Expresiones-de-Gratitud-)
   - [Licencia](#Licencia)
 
@@ -66,39 +80,70 @@ Un Pull request son cambios propuestos que puedes enviar a una rama en un reposi
 
 1. Hacer Fork a este repositorio usando el botón de arriba.
 2. Clonar tu repositorio clonado a tu PC.
-3. Crear una nueva rama para tus modificaciones (por ejemplo, `git branch nuevo-usuario` y hacer checkout a la rama `git checkout nuevo-usuario`).
+3. Crear una nueva rama para tus modificaciones (por ejemplo, `git branch [branch name]` y hacer checkout a la rama `git checkout [branch name]`).
 4. Abrir el archivo en la carpeta correspondiente de donde quieres resolver el problema.
-5. Añadir tus cambios (`git add -a`), hacer commit (`git commit -m "Resuelto problema"`) y hacer push (`git push origin nuevo-usuario` o `git push`).
-6. Crear un pull request.
+5. Añadir tus cambios (`git add -a`), hacer commit (`git commit -m "Mensaje commit"`) y hacer push (`git push origin [branch name]`).
+6. Crear un Pull request.
 7. Comentar en el Pull request el # del issue que resuelve, si no es un issue en específico, omitir este paso.
 8. Darle Star a este repositorio :sunglasses:.
 
+## Contribuye :rocket:
+
 ### Encontrar un repositorio para contribuir
 
-TODO: Escribir que pueden encontrar los Issues en la parte de Issues o en la tabla que pondré de algoritmos en cada lenguaje.
-[Algoritmos](#algoritmos)
+Gracias a mantenedores de proyectos Open Source como [vinitshahdeo](http://github.com/vinitshahdeo), tenemos proyectos con issues perfectos para principiantes o personas que van iniciandose al mundo del Open Source.
 
-## Referencias
+Puedes  tomar cualquier issue y mandar tus primeros PR!
 
-1. Bradley, T. (2013) [El Hacker Cívico: Civic-Minded Techies Gain Sway With Government in Mexico and Beyond](http://www.huffingtonpost.com/theresa-bradley/el-hacker-civico-how-civi_b_4334088.html). *The Huffington Post*.
-2. Bracy, C. (2014) [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI).
-3. Codeando México. (2015) [Los hackers cívicos mexicanos](https://www.fayerwayer.com/2015/01/los-hackers-civicos-mexicanos/). *FayerWayer*.
-4. Goldstein, B., Dyson, L. (2013) [Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org).
-5. Barry, L. (2016) [vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy](https://civichall.org/civicist/vtaiwan-democracy-frontier). *Civicist*.
-6. Swartz, A. (2008) [Open Access Guerrilla Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) 
+
+| Repository  | Issues  | Pull Requests  | Forks |
+|---|---|---|---|
+| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/inspirational-quotes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=flat-square&logo=git)](https://github.com/vinitshahdeo/inspirational-quotes/network) |
+| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/jobtweets?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/jobtweets/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/jobtweets?style=social&logo=github)](https://github.com/vinitshahdeo/jobtweets/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/jobtweets?style=flat-square&logo=git)](https://github.com/vinitshahdeo/jobtweets/network) |
+| [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Email-Signature-Template?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Email-Signature-Template/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Email-Signature-Template?style=social&logo=github)](https://github.com/vinitshahdeo/Email-Signature-Template/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Email-Signature-Template?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Email-Signature-Template/network) |
+| [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Hackathon-Timer?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Hackathon-Timer/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Hackathon-Timer?style=social&logo=github)](https://github.com/vinitshahdeo/Hackathon-Timer/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Hackathon-Timer?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Hackathon-Timer/network) |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Cookie-Manager?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Cookie-Manager/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Cookie-Manager?style=social&logo=github)](https://github.com/vinitshahdeo/Cookie-Manager/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Cookie-Manager/network) |
+| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Quotter?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Quotter/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Quotter?style=social&logo=github)](https://github.com/vinitshahdeo/Quotter/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Quotter/network) |
+| [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/SimpleBio?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/SimpleBio/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/SimpleBio?style=social&logo=github)](https://github.com/vinitshahdeo/SimpleBio/pulls) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/SimpleBio?style=flat-square&logo=git)](https://github.com/vinitshahdeo/SimpleBio/network) |
+| [HBD](https://github.com/vinitshahdeo/HBD) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/HBD?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/HBD/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/HBD?style=social&logo=github)](https://github.com/vinitshahdeo/HBD/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/HBD?style=flat-square&logo=git)](https://github.com/vinitshahdeo/HBD/network) |
+| [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Hashtagify?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Hashtagify/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Hashtagify?style=social&logo=github)](https://github.com/vinitshahdeo/Hashtagify/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Hashtagify?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Hashtagify/network) |
+| [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/online-debate-system?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/online-debate-system/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/online-debate-system?style=social&logo=github)](https://github.com/vinitshahdeo/online-debate-system/pulls) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system?style=flat-square&logo=git)](https://github.com/vinitshahdeo/online-debate-system/network)  |
+| [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/MiniYouTube?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/MiniYouTube/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/MiniYouTube?style=social&logo=github)](https://github.com/vinitshahdeo/MiniYouTube/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/MiniYouTube?style=flat-square&logo=git)](https://github.com/vinitshahdeo/MiniYouTube/network) |
+| [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/TwitterSentimentAnalysis?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/TwitterSentimentAnalysis?style=social&logo=github)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/TwitterSentimentAnalysis?style=flat-square&logo=git)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/network) |
+| [PortScanner](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/PortScanner/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=social&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/PortScanner?style=flat-square&logo=git)](https://github.com/vinitshahdeo/PortScanner/network) |
+| [Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=social&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Water-Monitoring-System?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Water-Monitoring-System/network) |
+| [Map-of-India](https://github.com/vinitshahdeo/Map-of-India) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Map-of-India?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Map-of-India/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Map-of-India?style=social&logo=github)](https://github.com/vinitshahdeo/Map-of-India/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Map-of-India?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Map-of-India/network) |
+| [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/ProgressiveNewsApp?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/ProgressiveNewsApp?style=social&logo=github)](https://github.com/vinitshahdeo/ProgressiveNewsApp/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/ProgressiveNewsApp?style=flat-square&logo=git)](https://github.com/vinitshahdeo/ProgressiveNewsApp/network) |
+| [covid19api](https://github.com/vinitshahdeo/covid19api) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/covid19api?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/covid19api/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/covid19api?style=social&logo=github)](https://github.com/vinitshahdeo/covid19api/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/covid19api?style=flat-square&logo=git)](https://github.com/vinitshahdeo/covid19api/network) |
+| [myFaculty](https://github.com/vinitshahdeo/myFaculty) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/myFaculty?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/myFaculty/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/myFaculty?style=social&logo=github)](https://github.com/vinitshahdeo/myFaculty/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/myFaculty?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
+| [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Recruitment-Portal?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Recruitment-Portal/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Recruitment-Portal?style=social&logo=github)](https://github.com/vinitshahdeo/Recruitment-Portal/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Recruitment-Portal?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
+
+<!-- TODO: Otro apartado 
+### Algoritmos
+-->
 
 ## Créditos
 
-### Core-Team
+### Organizadores
 
 - [Carlos Contreras](http://github.com/Cdca12)
 - [Alfonso Reyes](http://github.com/mxarc)
 
-### Otros contribuidores
+### Agradecimientos
 
-Este proyecto tampoco hubiera sido posible sin el apoyo de Richard Stallman, Aaron Swartz, Edward Snowden, Kevin Mitnick, Linus Torvalds y Chelsea Manning.
+Este proyecto no hubiera sido posible sin el apoyo del equipo de [Hacktoberfest](https://hacktoberfest.digitalocean.com/), entre ellos [DigitalOcean](https://www.digitalocean.com/) y [DEV Community](https://dev.to/).
+
+También damos las gracias y respetos a las personas que aportan mucho a proyectos Open Source y ofrecen su ayuda y facilidades a iniciados, además de proyectos para poder contribuir, entre ellos están:
+  - [vinitshahdeo](http://github.com/vinitshahdeo)
 
 `{}` con ❤️ por la comunidad de [DevSpace](https://www.devspace.mx).
+
+## Contribuidores
+
+Aquí se muestran las personas que contribuyeron en el evento de [Hacktoberfest 2020](https://organize.mlh.io/participants/events/5019-hacktoberfest-2020-devspace) realizado por DevSpace.
+
+  - [Carlos Contreras](https://github.com/Cdca12)
 
 ## Expresiones de Gratitud 🎁
 
