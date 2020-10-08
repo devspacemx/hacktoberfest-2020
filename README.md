@@ -41,37 +41,42 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
 
 Hacktoberfest es una celebración de un mes de la comunidad Open Source por DigitalOcean.
 
-- [x] Hacktoberfest está abierto a cualquier persona del mundo
-- [x] Tienes que hacer 4 pull requests a repositorios públicos de GitHub, no es necesario que los acepten, con que los crees
-- [x] Puedes registrarte del 1 de octubre hasta el 31 de octubre
+- [x] Hacktoberfest está abierto a cualquier persona del mundo.
+- [x] Tienes que hacer 4 pull requests a repositorios públicos de GitHub, no es necesario que los acepten, con que los crees.
+- [x] Puedes registrarte del 1 de octubre hasta el 31 de octubre.
 
 ## ¿Qué es el Open Source?
 
-Open Source (código abierto) hace referencia a código que es públicamente accesible y permite a cualquiera inspeccionar, modificar o aprender de el. Los proyectos Open Source fomentan la colaboración y la libertad de usar el software para cualquier propósito que requieras.
+Open Source (código abierto) hace referencia a código que es públicamente accesible y permite a cualquiera inspeccionar, modificar o aprender de el. 
+
+Los proyectos Open Source fomentan la colaboración y la libertad de usar el software para cualquier propósito que requieras.
 
 ## ¿Qué es un Pull request?
 
-Un Pull request son cambios propuestos que puedes enviar a una rama en un repositorio en GitHub. Una vez enviado, un administrador del proyecto puede revisar los cambios y debatir los cambios antes de que se conviertan en los finales.
+Un Pull request (PR) son cambios propuestos que puedes enviar a una rama en un repositorio en GitHub. 
+
+Una vez enviado tu PR, un administrador del proyecto puede revisar los cambios y debatir los cambios antes de que se conviertan en los finales.
 
 ## ¿Cómo empiezo?
 
 ### Inscribirse a Hacktoberfest 2020
 
-1. Ir a la página oficial de [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
-2. Dar click en el botón de Start Hacking
-3. Iniciar sesión con GitHub (lo hace automáticamente)
-4. Llenar los campos y dar click en el botón de Start Hacking
+1. Ir a la página oficial de [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).
+2. Dar click en el botón de Start Hacking.
+3. Iniciar sesión con GitHub (lo hace automáticamente).
+4. Llenar los campos y dar click en el botón de Start Hacking.
 
 ### Hacer tu primer Pull request
 
-1. Hacer Fork a este repositorio usando el botón de arriba
-2. Clonar tu repositorio clonado a tu PC
-3. Crear una nueva rama para tus modificaciones (por ejemplo, `git branch [branch name]` y hacer checkout a la rama `git checkout [branch name]`)
-4. Abrir el archivo en la carpeta correspondiente de donde quieres resolver el problema
-5. Añadir tus cambios (`git add -a`), hacer commit (`git commit -m "Mensaje commit"`) y hacer push (`git push origin [branch name]`)
-6. Crear un Pull request
-7. Comentar en el Pull request el # del issue que resuelve, si no es un issue en específico, omitir este paso
-8. Darle Star a este repositorio :sunglasses:
+1. Hacer Fork a este repositorio usando el botón de arriba.
+2. Clonar tu repositorio clonado a tu PC.
+3. Crear una nueva rama para tus modificaciones (por ejemplo, `git branch [branch name]` y hacer checkout a la rama `git checkout [branch name]`).
+4. Abrir el archivo en la carpeta correspondiente de donde quieres resolver el problema.
+5. Añadir tus cambios (`git add -a`), hacer commit (`git commit -m "Mensaje commit"`) y hacer push (`git push origin [branch name]`).
+6. Crear un Pull request.
+7. Comentar en el Pull request el # del issue que resuelve, si no es un issue en específico, omitir este paso.
+8. Esperar a que acepten tu Pull request.
+9. Darle Star a este repositorio :sunglasses:.
 
 ## Contribuye 🚀
 
@@ -79,7 +84,7 @@ Un Pull request son cambios propuestos que puedes enviar a una rama en un reposi
 
 Gracias a responsables de proyectos Open Source como [vinitshahdeo](http://github.com/vinitshahdeo), tenemos proyectos con issues perfectos para principiantes o personas que van iniciandose al mundo del Open Source.
 
-Puedes  tomar cualquier issue y mandar tus primeros PR!
+Puedes tomar cualquier issue y mandar tus primeros PR.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) 
 
@@ -118,7 +123,7 @@ Puedes  tomar cualquier issue y mandar tus primeros PR!
 
 ### Agradecimientos
 
-Este proyecto no hubiera sido posible sin el apoyo del equipo de [Hacktoberfest](https://hacktoberfest.digitalocean.com/), entre ellos [DigitalOcean](https://www.digitalocean.com/) y [DEV Community](https://dev.to/)
+Este proyecto no hubiera sido posible sin el apoyo del equipo de [Hacktoberfest](https://hacktoberfest.digitalocean.com/), entre ellos [DigitalOcean](https://www.digitalocean.com/) y [DEV Community](https://dev.to/).
 
 También damos las gracias y respetos a las personas que aportan mucho a proyectos Open Source y ofrecen su ayuda y facilidades a iniciados, además de proyectos para poder contribuir, entre ellos están:
   - [vinitshahdeo](http://github.com/vinitshahdeo)
@@ -127,17 +132,15 @@ También damos las gracias y respetos a las personas que aportan mucho a proyect
 
 ## Contribuidores
 
-Aquí se muestran las personas que contribuyeron en el evento de [Hacktoberfest 2020](https://organize.mlh.io/participants/events/5019-hacktoberfest-2020-devspace) realizado por DevSpace.
-
-  - [Carlos Contreras](https://github.com/Cdca12)
+[Aquí](https://github.com/devspacemx/hacktoberfest-2020/blob/master/CONTRIBUTORS.md) encontrarás una lista, donde se muestran las personas que contribuyeron en el evento de [Hacktoberfest 2020](https://organize.mlh.io/participants/events/5019-hacktoberfest-2020-devspace) realizado por DevSpace.
 
 ## Expresiones de Gratitud 🎁
 
-- Comenta a otros sobre este proyecto 📢
-- Síguenos en las redes sociales de DevSpace 📢
-- Invita una cerveza 🍺 o un café ☕ a alguien del equipo
-- Da las gracias públicamente 🤓
-- etc
+- Comenta a otros sobre este proyecto 📢.
+- Síguenos en las redes sociales de DevSpace 📢.
+- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+- Da las gracias públicamente 🤓.
+- etc.
 
 ## Licencia
 
