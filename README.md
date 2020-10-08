@@ -30,6 +30,7 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
     - [Hacer tu primer Pull request](#Hacer-tu-primer-Pull-request)
   - [Contribuye 🚀](#Contribuye-)
     - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
+    - [Algoritmos](#Algoritmos)
   - [Créditos](#Créditos)
     - [Organizadores](#Organizadores)
     - [Agradecimientos](#Agradecimientos)
@@ -80,6 +81,28 @@ Una vez enviado tu PR, un administrador del proyecto puede revisar los cambios y
 
 ## Contribuye 🚀
 
+## Algoritmos
+
+Aquí tenemos una tabla con una lista de algoritmos que se irá llenando poco a poco. En esta, iremos añadiendo los algoritmos que vayamos resolviendo, pueden ser de ordenamiento, búsqueda, algún acertijo, etc.
+
+Recordemos la importancia de contribuir no solo resolviendo los algoritmos, si no también explicando cómo lo resolviste, como se comentó al inicio. Esto lo puedes hacer entre documentando un poco el código (con comentarios) o describiendolo en el commit que hagas.
+
+Bueno, para la tabla, si ya existe una carpeta con el lenguaje en el que quieres aportar, crea un nuevo archivo dentro con el nombre de tu algoritmo y con la extensión de archivo apropiada (por ejemplo, `BubbleSort.js`). Si no está tu lenguaje en la lista, siéntete libre de crear una nueva carpeta con el nombre del lenguaje y tu archivo adentro.
+
+Puedes ignorar el archivo `.gitkeep`, o incluso borrarlo cuando crees tu archivo.
+
+**No olvides actualizar el [README.md](README.md)!** 
+
+| Lenguaje | Algoritmo |
+|----------|------------|
+| C# | |
+| C++ | |
+| Java | |
+| JavaScript | |
+| PHP | |
+| Python | |
+
+
 ### Encontrar un repositorio para contribuir
 
 Gracias a responsables de proyectos Open Source como [vinitshahdeo](http://github.com/vinitshahdeo), tenemos proyectos con issues perfectos para principiantes o personas que van iniciandose al mundo del Open Source.
@@ -109,10 +132,6 @@ Puedes tomar cualquier issue y mandar tus primeros PR.
 | [covid19api](https://github.com/vinitshahdeo/covid19api) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/covid19api?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/covid19api/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/covid19api?style=social&logo=github)](https://github.com/vinitshahdeo/covid19api/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/covid19api?style=flat-square&logo=git)](https://github.com/vinitshahdeo/covid19api/network) |
 | [myFaculty](https://github.com/vinitshahdeo/myFaculty) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/myFaculty?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/myFaculty/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/myFaculty?style=social&logo=github)](https://github.com/vinitshahdeo/myFaculty/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/myFaculty?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
 | [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Recruitment-Portal?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Recruitment-Portal/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Recruitment-Portal?style=social&logo=github)](https://github.com/vinitshahdeo/Recruitment-Portal/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Recruitment-Portal?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
-
-<!-- TODO: Otro apartado 
-### Algoritmos
--->
 
 ## Créditos
 
