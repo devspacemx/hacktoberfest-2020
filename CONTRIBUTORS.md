@@ -17,3 +17,9 @@
 - Ciudad: Culiacán, Sinaloa
 - Institución/Empresa: Tecnológico Nacional de México Campus Culiacán
 - GitHub: [urielexis64](https://github.com/urielexis64).
+
+#### Osiel Sainz
+
+- Ciudad: Culiacán, Sinaloa
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán
+- GitHub: [OsielSA](https://github.com/OsielSA).
