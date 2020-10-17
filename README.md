@@ -29,8 +29,8 @@ Puedes contribuir en este repositorio resolviendo los diversos algoritmos plante
     - [Inscribirse a Hacktoberfest 2020](#Inscribirse-a-Hacktoberfest-2020)
     - [Hacer tu primer Pull request](#Hacer-tu-primer-Pull-request)
   - [Contribuye 🚀](#Contribuye-)
-    - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
     - [Algoritmos](#Algoritmos)
+    - [Encontrar un repositorio para contribuir](#Encontrar-un-repositorio-para-contribuir)
   - [Créditos](#Créditos)
     - [Organizadores](#Organizadores)
     - [Agradecimientos](#Agradecimientos)
@@ -81,7 +81,7 @@ Una vez enviado tu PR, un administrador del proyecto puede revisar los cambios y
 
 ## Contribuye 🚀
 
-## Algoritmos
+### Algoritmos
 
 Aquí tenemos una tabla con una lista de algoritmos que se irá llenando poco a poco. En esta, iremos añadiendo los algoritmos que vayamos resolviendo, pueden ser de ordenamiento, búsqueda, algún acertijo, etc.
 
