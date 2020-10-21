@@ -18,7 +18,14 @@
 - Institución/Empresa: Tecnológico Nacional de México Campus Culiacán
 - GitHub: [urielexis64](https://github.com/urielexis64).
 
+#### Edwin Villa
+
+- Ciudad: Culiacán, Sinaloa
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán
+- GitHub: [edwvilla](https://github.com/edwvilla).
+
 #### Jorge Herrera
+
 - Ciudad: Culiacán, Sinaloa.
 - Institución/Empresa: Instituto Tecnológico de Culiacán.
 - GitHub: [Herra310](https://github.com/Herra310).
