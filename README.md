@@ -97,7 +97,7 @@ Puedes ignorar el archivo `.gitkeep`, o incluso borrarlo cuando crees tu archivo
 |----------|------------|
 | C# | [`Bubble Sort`](Algoritmos/C%23/BubbleSort.cs) |
 | C++ | |
-| Java | |
+| Java | ['Quick Sort'](Algoritmos/Java/Quicksort.java) |
 | JavaScript | |
 | PHP | |
 | Python | |

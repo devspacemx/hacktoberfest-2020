@@ -29,3 +29,9 @@
 - Ciudad: Culiacán, Sinaloa.
 - Institución/Empresa: Instituto Tecnológico de Culiacán.
 - GitHub: [Herra310](https://github.com/Herra310).
+
+#### Daniel Campos
+
+- Ciudad: Culiacán, Sinaloa.
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán.
+- GitHub: [DanielCamposs98](https://github.com/DanielCamposs98).
