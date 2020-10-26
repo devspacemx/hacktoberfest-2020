@@ -23,3 +23,27 @@
 - Ciudad: São José dos Campos, São Paulo
 - Institución/Empresa: Universidade Paulista - UNIP
 - GitHub: [VictorSega](https://github.com/VictorSega).
+
+#### Osiel Sainz
+
+- Ciudad: Culiacán, Sinaloa
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán
+- GitHub: [OsielSA](https://github.com/OsielSA).
+
+#### Edwin Villa
+
+- Ciudad: Culiacán, Sinaloa
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán
+- GitHub: [edwvilla](https://github.com/edwvilla).
+
+#### Jorge Herrera
+
+- Ciudad: Culiacán, Sinaloa.
+- Institución/Empresa: Instituto Tecnológico de Culiacán.
+- GitHub: [Herra310](https://github.com/Herra310).
+
+#### Daniel Campos
+
+- Ciudad: Culiacán, Sinaloa.
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán.
+- GitHub: [DanielCamposs98](https://github.com/DanielCamposs98).
