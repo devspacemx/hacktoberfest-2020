@@ -47,3 +47,9 @@
 - Ciudad: Culiacán, Sinaloa.
 - Institución/Empresa: Tecnológico Nacional de México Campus Culiacán.
 - GitHub: [DanielCamposs98](https://github.com/DanielCamposs98).
+
+#### Mauricio García
+
+- Ciudad: Culiacán, Sinaloa.
+- Institución/Empresa: Tecnológico Nacional de México Campus Culiacán.
+- GitHub: [MauricioGR15](https://github.com/MauricioGR15).
